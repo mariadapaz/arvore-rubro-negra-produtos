@@ -12,7 +12,7 @@ Este projeto utiliza uma árvore rubro-negra (implementada com `TreeMap` em Java
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/arvore-rubro-negra-produtos.git
+   git clone https://github.com/mariadapaz/arvore-rubro-negra-produtos.git
    cd arvore-rubro-negra-produtos
 
 2. **Compile o codigo**:
