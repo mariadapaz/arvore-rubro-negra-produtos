@@ -17,11 +17,11 @@ Este projeto utiliza uma árvore rubro-negra (implementada com `TreeMap` em Java
 
 2. **Compile o codigo**:
    ```bash
-   javac arvRb/Main.java
+   javac src/arvRb/Main.java
 
 3. **Execute o programa**:
    ```bash
-   java arvRb.Main
+   java -cp src arvRb.Main
 ## Explicação do Código
 
 ### Estrutura do Projeto
