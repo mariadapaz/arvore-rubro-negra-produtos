@@ -19,7 +19,7 @@ public class Main {
         Random random = new Random();
         for (int i = 1; i <= NUM_PRODUTOS; i++) {
             String descricao = "Produto" + i;
-            double valor = 10 + (500 - 10) * random.nextDouble();
+            double valor = 5 + (200 - 5) * random.nextDouble();
             produtos.put(descricao, new Produto(descricao, valor));
         }
 
