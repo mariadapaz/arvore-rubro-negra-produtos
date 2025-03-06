@@ -26,7 +26,7 @@ public class Main {
         // Exibe a árvore completa no console
         exibirArvoreOrdenada(produtos);
 
-        // Usa os métodos da estrutura para obter subgrupos sem percorrer tudo
+        // Usanso os métodos da estrutura para obter subgrupos
         NavigableMap<String, Produto> produtosAbaixo100 = produtos.headMap("Produto" + NUM_PRODUTOS, true)
                 .entrySet()
                 .stream()
